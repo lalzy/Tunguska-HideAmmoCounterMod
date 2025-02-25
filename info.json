@@ -1,0 +1,9 @@
+{
+  "Id": "[ProjectName]",
+  "DisplayName": "[ProjectName]",
+  "author": "SKN The Lisper",
+  "description" : "Hides the ammo counter from the HUD",
+  "Version": "1.1.1",
+  "GameVersion": "1.87.0",
+  "EntryMethod": "[ProjectName].Main.Load"
+}
